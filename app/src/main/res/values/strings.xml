@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimacionesRandom</string>
+    <string name="instruc">Instrucciones</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
